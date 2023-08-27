@@ -1,0 +1,90 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '18492096734@s.whatsapp.net',
+    fromMe: false,
+    id: '4341D3304BE31DBB685636D0EFB6DB61',
+    participant: undefined
+  },
+  messageTimestamp: 1693100042,
+  pushName: 'Saulecast 🪢',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '😂',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '18492096734'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18492096734@s.whatsapp.net',
+    fromMe: false,
+    id: '808B21C0A3CE185ABDE808BCE7831520',
+    participant: undefined
+  },
+  messageTimestamp: 1693100156,
+  pushName: 'Saulecast 🪢',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/35327375_848632683295026_6847984005758455672_n.enc?ccb=11-4&oh=01_AdSt2ByPf0XrZCjDNKM_a6BwRb4zj8pjiviK1E-qvZxaiA&oe=65122C09&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 70,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/35327375_848632683295026_6847984005758455672_n.enc?ccb=11-4&oh=01_AdSt2ByPf0XrZCjDNKM_a6BwRb4zj8pjiviK1E-qvZxaiA&oe=65122C09',
+      mediaKeyTimestamp: [Long],
+      contextInfo: [ContextInfo],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__a6ef176b-3e3d-4a60-ac22-d4a09ba638e4',
+  from: '18492096734'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18492096734@s.whatsapp.net',
+    fromMe: false,
+    id: '359852E0E7CEE721305906107A5CE7E4',
+    participant: undefined
+  },
+  messageTimestamp: 1693100190,
+  pushName: 'Saulecast 🪢',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/19935492_253676656988771_1547873007373365125_n.enc?ccb=11-4&oh=01_AdQ2p6dtiS039OZjeL9kudxME_a21dnMztg31ara1Q0iyA&oe=65122074&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 29,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/19935492_253676656988771_1547873007373365125_n.enc?ccb=11-4&oh=01_AdQ2p6dtiS039OZjeL9kudxME_a21dnMztg31ara1Q0iyA&oe=65122074',
+      mediaKeyTimestamp: [Long],
+      contextInfo: [ContextInfo],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__c2b67fa6-aa50-45bb-92fb-641684a1e2fb',
+  from: '18492096734'
+}
